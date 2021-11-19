@@ -22,7 +22,7 @@ The example below shows how amino acid sequences can be created and how basic ma
     concat = seq + seq # concatenate two sequences
 
     # print string representation of sequences
-    print("Sequence:", seq)
+    print("Seq:", seq)
     print("Prefix:", prefix)
     print("Suffix:", suffix)
     print("Concatenated:", concat)
